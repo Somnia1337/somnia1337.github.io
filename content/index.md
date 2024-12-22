@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来到 🥀 EmberNecrono
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[Somnia1337](https://github.com/Somnia1337) 的 Obsidian 笔记。
