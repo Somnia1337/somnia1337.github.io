@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🥑 EmberNecro",
+    pageTitle: "EmberNecrono",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
