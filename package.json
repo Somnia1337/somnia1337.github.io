@@ -59,7 +59,7 @@
     "mdast-util-find-and-replace": "^3.0.2",
     "mdast-util-to-hast": "^13.2.1",
     "mdast-util-to-string": "^4.0.0",
-    "mermaid": "^11.12.1",
+    "mermaid": "^11.12.2",
     "micromorph": "^0.4.5",
     "pixi.js": "^8.14.3",
     "preact": "^10.28.0",
@@ -87,7 +87,7 @@
     "satori": "^0.18.3",
     "serve-handler": "^6.1.6",
     "sharp": "^0.34.5",
-    "shiki": "^3.17.1",
+    "shiki": "^3.19.0",
     "source-map-support": "^0.5.21",
     "to-vfile": "^8.0.0",
     "toml": "^3.0.0",
@@ -108,8 +108,8 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.35",
-    "esbuild": "^0.27.0",
-    "prettier": "^3.7.3",
+    "esbuild": "^0.27.1",
+    "prettier": "^3.7.4",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }
